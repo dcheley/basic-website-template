@@ -31,7 +31,7 @@ gem 'jquery-rails'
 # Postgresql db
 gem 'pg'
 # HTML/CSS framework
-gem 'bootstrap', '~>4.1.0'
+gem 'bootstrap', '~>4.3.1'
 # Auth gem
 gem 'devise'
 # Use Capistrano for deployment
